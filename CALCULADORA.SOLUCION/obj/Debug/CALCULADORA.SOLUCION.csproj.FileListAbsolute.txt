@@ -1,0 +1,9 @@
+c:\users\moguel\documents\visual studio 2013\Projects\CALCULADORA.SOLUCION\CALCULADORA.SOLUCION\bin\Debug\CALCULADORA.SOLUCION.exe.config
+c:\users\moguel\documents\visual studio 2013\Projects\CALCULADORA.SOLUCION\CALCULADORA.SOLUCION\bin\Debug\CALCULADORA.SOLUCION.exe
+c:\users\moguel\documents\visual studio 2013\Projects\CALCULADORA.SOLUCION\CALCULADORA.SOLUCION\bin\Debug\CALCULADORA.SOLUCION.pdb
+c:\users\moguel\documents\visual studio 2013\Projects\CALCULADORA.SOLUCION\CALCULADORA.SOLUCION\obj\Debug\CALCULADORA.SOLUCION.csprojResolveAssemblyReference.cache
+c:\users\moguel\documents\visual studio 2013\Projects\CALCULADORA.SOLUCION\CALCULADORA.SOLUCION\obj\Debug\CALCULADORA.SOLUCION.Form1.resources
+c:\users\moguel\documents\visual studio 2013\Projects\CALCULADORA.SOLUCION\CALCULADORA.SOLUCION\obj\Debug\CALCULADORA.SOLUCION.Properties.Resources.resources
+c:\users\moguel\documents\visual studio 2013\Projects\CALCULADORA.SOLUCION\CALCULADORA.SOLUCION\obj\Debug\CALCULADORA.SOLUCION.csproj.GenerateResource.Cache
+c:\users\moguel\documents\visual studio 2013\Projects\CALCULADORA.SOLUCION\CALCULADORA.SOLUCION\obj\Debug\CALCULADORA.SOLUCION.exe
+c:\users\moguel\documents\visual studio 2013\Projects\CALCULADORA.SOLUCION\CALCULADORA.SOLUCION\obj\Debug\CALCULADORA.SOLUCION.pdb
